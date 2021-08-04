@@ -41,3 +41,11 @@ python retinanet.py 1 --alpha=1 --epsilon=10 --num_iteration=5
 ```
 python test.py 2020-06-09-15-19-07_RAD_SI_YOLOv3_Index0to5000_Eps2_Iter10 0
 ```
+
+# AOCO Dataset
+* Adversarial Objects in COntext (AOCO) is the first adversarial dataset for object detection and instance segmentation. 
+* AOCO serves as a potential benchmark to evaluate the robustness of detectors, which is beneficial to network designers.
+* AOCO is generated from the full COCO 2017 validation set with 5k samples. 
+* AOCO contains 5K adversarial samples for evaluating object detection and 5K for instance segmentation. 
+* All 10K samples in AOCO are crafted by our RAD.
+* [[download]](https://pan.baidu.com/s/1fjy9toJDRLTp8RSN-q1gZQ) password: gbug 
