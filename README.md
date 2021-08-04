@@ -1,3 +1,6 @@
+# Description
+* This is the official implementation for "Relevance Attack on Detectors" [pdf](https://arxiv.org/abs/2008.06822) submitted to Pattern Recognition.
+
 # Environment
 ```
 conda create -n rad python=3.6.2
